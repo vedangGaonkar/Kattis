@@ -1,2 +1,2 @@
 # kattis
-Solutions to all kattis problems that me and my team has solved. 
+Solutions to some kattis problems that I have solved.
